@@ -1,16 +1,12 @@
 /* TEAM */
                             
-Your title: Your name.                        
-Site: email, link to a contact form, etc.                         
+Your title:ADBCD.                        
+Site: http://www.adbcd.com.                         
 Twitter: your Twitter username.                        
-Location: City, Country.
+Location:Trivandrum, Cochin.
 
 
 /* THANKS */
-
-HTML5 Muffin
-This is a Frappuccino Blog
-Name: name or url
 
                             
 /* SITE */
